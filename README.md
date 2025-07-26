@@ -1,1 +1,1 @@
-# lpu_pep
+Standalone application
